@@ -61,14 +61,14 @@
          stroke-linejoin="round"
          stroke-width="9.35004"
          id="path2-4"
-         style="fill:url(#a-1)" /></g><path
+         style="fill:#ffffff;fill-opacity:1" /></g><path
        style="fill:#14529e;stroke:none;fill-opacity:1"
        d="m 207,0 v 3000 h 88 V 0 h -88"
        id="path1" /><path
        style="display:inline;fill:#14529e;stroke:none;fill-opacity:1"
        d="m 707,0 v 3000 h 88 V 0 h -88"
        id="path3" /><path
-       style="display:inline;fill:#238de6;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#107eb1;fill-opacity:1;stroke:none"
        d="M 356,0 V 3000 H 647 V 0 H 356"
        id="path2" /><path
        style="fill:#e2cf00;fill-opacity:1;stroke:none"
