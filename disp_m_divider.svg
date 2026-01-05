@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.425"
-     inkscape:cx="850.58824"
+     inkscape:cx="612.94118"
      inkscape:cy="212.94118"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -38,7 +38,8 @@
        x1="-23.36718"
        x2="33.069611"
        y1="-116.69759"
-       y2="-18.946199"><stop
+       y2="-18.946199"
+       gradientTransform="matrix(0,20,-5.8800003,0,102.20728,1402.9769)"><stop
          offset="0"
          stop-color="#437644"
          id="stop1-5"
@@ -51,6 +52,15 @@
      inkscape:label="Band"
      id="g2"
      transform="matrix(0,-0.03059807,0.15875,0,0,24.32547)"><path
+       d="m 795.00015,1.5e-5 c 0,999.999985 0,1999.999985 0,2999.999985 -196.00002,0 -392.00007,0 -588.00007,0 0,-1000 0,-2000 0,-2999.999985 196,0 392.00005,0 588.00007,0 z"
+       fill="url(#a)"
+       fill-rule="evenodd"
+       stroke-dashoffset="1.90299"
+       stroke-linejoin="round"
+       stroke-width="101.395"
+       id="path2-4"
+       style="fill:#ffffff"
+       transform="translate(2.1787869e-6)" /><path
        style="fill:#14529e;stroke:none;fill-opacity:1"
        d="m 207,0 v 3000 h 88 V 0 h -88"
        id="path1" /><path
